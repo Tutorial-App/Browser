@@ -1,0 +1,261 @@
+TmyBrowser
+v7
+r0
+t279920009.650148
+cCheck dependencies
+cProcessInfoPlistFile /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/Info.plist myBrowser-Info.plist
+cCompileXIB /Users/Rino/Desktop/iPhoneAPP/myBrowser/MainWindow.xib
+cCompileXIB /Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowserViewController.xib
+cCpResource build/Debug-iphonesimulator/myBrowser.app/background.png background.png
+cProcessPCH /var/folders/OR/ORGuC2YIFC8sMUj2b7RQXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myBrowser_Prefix-enhonntolzlflxbylgfuejwfsuau/myBrowser_Prefix.pch.gch myBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/main.o /Users/Rino/Desktop/iPhoneAPP/myBrowser/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserAppDelegate.o /Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserViewController.o /Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AD3669B00000000000000EE
+t1255368347
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserAppDelegate.h
+c000000004AFF03C400000000000001EC
+t1258226628
+s492
+i<UIKit/UIKit.h>
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserAppDelegate.m
+c000000004AFF03C40000000000000275
+t1258226628
+s629
+i"myBrowserAppDelegate.h"
+i"myBrowserViewController.h"
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.h
+c000000004AFF05B300000000000001CB
+t1258227123
+s459
+i<UIKit/UIKit.h>
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m
+c000000004AFF060600000000000007E8
+t1258227206
+s2024
+i"myBrowserViewController.h"
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/MainWindow.xib
+c000000004AFF03C40000000000002464
+t1258226628
+s9316
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/background.png
+c0000000049EA15320000000000017CB1
+t1240077618
+s97457
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app
+t2
+s0
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app.dSYM
+t2
+s0
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/Info.plist
+t1258227208
+s572
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/MainWindow.nib
+t1258227208
+s1499
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/PkgInfo
+t1258227208
+s8
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/background.png
+t1258227208
+s97457
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/myBrowser
+t2
+s0
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/myBrowserViewController.nib
+t1258227208
+s4161
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/main.o
+t1258227209
+s5960
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowser.LinkFileList
+c000000004AFF060800000000000001A0
+t1258227208
+s416
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserAppDelegate.o
+t1258227209
+s38296
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserViewController.o
+t2
+s0
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/main.m
+c000000004AFF03C4000000000000016C
+t1258226628
+s364
+i<UIKit/UIKit.h>
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowserViewController.xib
+c000000004AFF05260000000000006FE4
+t1258226982
+s28644
+
+N/Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowser_Prefix.pch
+c000000004AFF03C400000000000000BB
+t1258226628
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/OR/ORGuC2YIFC8sMUj2b7RQXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myBrowser_Prefix-enhonntolzlflxbylgfuejwfsuau/myBrowser_Prefix.pch.gch
+t1258227209
+s13034960
+
+NmyBrowser-Info.plist
+c000000004AFF03C4000000000000038D
+t1258226628
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279920008#279920008#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/main.o /Users/Rino/Desktop/iPhoneAPP/myBrowser/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279920009.550073
+e279920009.601441
+r1
+xCompileC
+xbuild/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/main.o
+x/Users/Rino/Desktop/iPhoneAPP/myBrowser/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Rino/Desktop/iPhoneAPP/myBrowser/main.m279920009#279920009#0(0"0(0#0#46"/Users/Rino/Desktop/iPhoneAPP/myBrowser/main.m4300885448#1910"    cd /Users/Rino/Desktop/iPhoneAPP/myBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-generated-files.hmap -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-own-target-headers.hmap -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-all-target-headers.hmap -iquote /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-project-headers.hmap -F/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/include -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/DerivedSources/i386 -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/DerivedSources -include /var/folders/OR/ORGuC2YIFC8sMUj2b7RQXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myBrowser_Prefix-enhonntolzlflxbylgfuejwfsuau/myBrowser_Prefix.pch -c /Users/Rino/Desktop/iPhoneAPP/myBrowser/main.m -o /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/main.o0#
+
+CCompileC build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserAppDelegate.o /Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279920009.551115
+e279920009.627456
+r1
+xCompileC
+xbuild/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserAppDelegate.o
+x/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserAppDelegate.m279920009#279920009#0(0"0(0#0#70"/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserAppDelegate.m4300885448#1950"    cd /Users/Rino/Desktop/iPhoneAPP/myBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-generated-files.hmap -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-own-target-headers.hmap -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-all-target-headers.hmap -iquote /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-project-headers.hmap -F/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/include -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/DerivedSources/i386 -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/DerivedSources -include /var/folders/OR/ORGuC2YIFC8sMUj2b7RQXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myBrowser_Prefix-enhonntolzlflxbylgfuejwfsuau/myBrowser_Prefix.pch -c /Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserAppDelegate.m -o /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserAppDelegate.o0#
+
+CCompileC build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserViewController.o /Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279920009.601550
+e279920009.649979
+r0
+xCompileC
+xbuild/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserViewController.o
+x/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m: In function '-[myBrowserViewController apriPagina]':
+o/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:17: error: 'address' undeclared (first use in this function)
+o/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:17: error: (Each undeclared identifier is reported only once
+o/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:17: error: for each function it appears in.)
+o/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:18: warning: local declaration of 'indirizzo' hides instance variable
+o/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m: In function '-[myBrowserViewController viewDidLoad]':
+o/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:50: warning: local declaration of 'indirizzo' hides instance variable
+lSLF07#2@81"Compile /Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m279920009#279920009#0(934"/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m: In function '-[myBrowserViewController apriPagina]':/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:17: error: 'address' undeclared (first use in this function)/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:17: error: (Each undeclared identifier is reported only once/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:17: error: for each function it appears in.)/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:18: warning: local declaration of 'indirizzo' hides instance variable/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m: In function '-[myBrowserViewController viewDidLoad]':/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m:50: warning: local declaration of 'indirizzo' hides instance variable3(4@49"'address' undeclared (first use in this function)279920009#128#135#0(6@73"/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m279920006#17#0#17#0#43"'*' undeclared (first use in this function)0(22@56"Local declaration of 'indirizzo' hides instance variable279920009#517#144#0(6@73"/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m279920006#18#0#18#0#0"0(22@56"Local declaration of 'indirizzo' hides instance variable279920009#790#144#0(6@73"/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m279920006#50#0#50#0#0"0(0#0#73"/Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m4300885448#1956"    cd /Users/Rino/Desktop/iPhoneAPP/myBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-generated-files.hmap -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-own-target-headers.hmap -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-all-target-headers.hmap -iquote /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-project-headers.hmap -F/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/include -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/DerivedSources/i386 -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/DerivedSources -include /var/folders/OR/ORGuC2YIFC8sMUj2b7RQXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myBrowser_Prefix-enhonntolzlflxbylgfuejwfsuau/myBrowser_Prefix.pch -c /Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m -o /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/Objects-normal/i386/myBrowserViewController.o1#
+
+CCompileXIB /Users/Rino/Desktop/iPhoneAPP/myBrowser/MainWindow.xib
+s279920008.434522
+e279920008.778515
+r1
+xCompileXIB
+x/Users/Rino/Desktop/iPhoneAPP/myBrowser/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib279920008#279920008#0(0"0(0#0#54"/Users/Rino/Desktop/iPhoneAPP/myBrowser/MainWindow.xib4300885448#487"    cd /Users/Rino/Desktop/iPhoneAPP/myBrowser    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/MainWindow.nib /Users/Rino/Desktop/iPhoneAPP/myBrowser/MainWindow.xib0#
+
+CCompileXIB /Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowserViewController.xib
+s279920008.435150
+e279920008.861988
+r1
+xCompileXIB
+x/Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowserViewController.xib
+lSLF07#2@38"CompileXIB myBrowserViewController.xib279920008#279920008#0(0"0(0#0#67"/Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowserViewController.xib4300885448#513"    cd /Users/Rino/Desktop/iPhoneAPP/myBrowser    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/myBrowserViewController.nib /Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowserViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/myBrowser.app/background.png background.png
+s279920008.778605
+e279920008.786142
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myBrowser.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png279920008#279920008#0(0"0(0#0#54"/Users/Rino/Desktop/iPhoneAPP/myBrowser/background.png4300885448#463"    cd /Users/Rino/Desktop/iPhoneAPP/myBrowser    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Rino/Desktop/iPhoneAPP/myBrowser/background.png /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app0#
+
+CGenerateDSYMFile /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app.dSYM /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/myBrowser
+r0
+
+CLd /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/myBrowser normal i386
+r0
+
+CProcessInfoPlistFile /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/Info.plist myBrowser-Info.plist
+s279920008.423195
+e279920008.434438
+r1
+xProcessInfoPlistFile
+x/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/Info.plist
+xmyBrowser-Info.plist
+lSLF07#2@28"Process myBrowser-Info.plist279920008#279920008#0(0"0(0#0#60"/Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowser-Info.plist4300885448#488"    cd /Users/Rino/Desktop/iPhoneAPP/myBrowser    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myBrowser-Info.plist -genpkginfo /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app/Info.plist0#
+
+CProcessPCH /var/folders/OR/ORGuC2YIFC8sMUj2b7RQXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myBrowser_Prefix-enhonntolzlflxbylgfuejwfsuau/myBrowser_Prefix.pch.gch myBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s279920008.862107
+e279920009.549971
+r1
+xProcessPCH
+x/var/folders/OR/ORGuC2YIFC8sMUj2b7RQXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myBrowser_Prefix-enhonntolzlflxbylgfuejwfsuau/myBrowser_Prefix.pch.gch
+xmyBrowser_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile myBrowser_Prefix.pch279920008#279920009#0(0"0(0#0#60"/Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowser_Prefix.pch4300885448#1799"    cd /Users/Rino/Desktop/iPhoneAPP/myBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-generated-files.hmap -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-own-target-headers.hmap -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-all-target-headers.hmap -iquote /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/myBrowser-project-headers.hmap -F/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/include -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/DerivedSources/i386 -I/Users/Rino/Desktop/iPhoneAPP/myBrowser/build/myBrowser.build/Debug-iphonesimulator/myBrowser.build/DerivedSources -c /Users/Rino/Desktop/iPhoneAPP/myBrowser/myBrowser_Prefix.pch -o /var/folders/OR/ORGuC2YIFC8sMUj2b7RQXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myBrowser_Prefix-enhonntolzlflxbylgfuejwfsuau/myBrowser_Prefix.pch.gch0#
+
+CTouch /Users/Rino/Desktop/iPhoneAPP/myBrowser/build/Debug-iphonesimulator/myBrowser.app
+r0
+

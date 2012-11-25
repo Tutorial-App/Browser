@@ -1,0 +1,204 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* myBrowserAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 299}}";
+			sepNavSelRange = "{102, 0}";
+			sepNavVisRange = "{133, 342}";
+		};
+	};
+	1D3623250D0F684500981E51 /* myBrowserAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 442}}";
+			sepNavSelRange = "{102, 0}";
+			sepNavVisRange = "{365, 247}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* myBrowser */ = {
+		activeExec = 0;
+		executables = (
+			23A0C30F10AF3B4400BF6241 /* myBrowser */,
+		);
+	};
+	2368B6A610C47FDB007E49E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* myBrowserAppDelegate.h */;
+		name = "myBrowserAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 342;
+		vrLoc = 133;
+	};
+	2368B6A710C47FDB007E49E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* myBrowserAppDelegate.m */;
+		name = "myBrowserAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 365;
+	};
+	2368B6A810C47FDB007E49E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* myBrowserViewController.h */;
+		name = "myBrowserViewController.h: 6";
+		rLen = 0;
+		rLoc = 105;
+		rType = 0;
+		vrLen = 306;
+		vrLoc = 136;
+	};
+	2368B6A910C47FDB007E49E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2386FEE010AFFC60007315E0 /* myBrowserViewController.m */;
+		name = "myBrowserViewController.m: 53";
+		rLen = 0;
+		rLoc = 1391;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 961;
+	};
+	2368B6AF10C48074007E49E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* myBrowserViewController.m */;
+		name = "myBrowserViewController.m: 6";
+		rLen = 0;
+		rLoc = 105;
+		rType = 0;
+		vrLen = 223;
+		vrLoc = 1855;
+	};
+	2386FEE010AFFC60007315E0 /* myBrowserViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = myBrowserViewController.m;
+		path = /Users/Rino/Desktop/iPhoneAPP/myBrowser/Classes/myBrowserViewController.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1105}}";
+			sepNavSelRange = "{105, 0}";
+			sepNavVisRange = "{1855, 223}";
+		};
+	};
+	23A0C30F10AF3B4400BF6241 /* myBrowser */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = myBrowser;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23A0C31910AF3B5200BF6241 /* background.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = background.png;
+		path = /Users/Rino/Desktop/iPhoneAPP/myBrowser/background.png;
+		sourceTree = "<absolute>";
+	};
+	23A0C31B10AF3B5200BF6241 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23A0C31C10AF3B5200BF6241 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23A0C35A10AF45A200BF6241 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 23A0C31910AF3B5200BF6241 /* background.png */;
+	};
+	28D7ACF60DDB3853001CB0EB /* myBrowserViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 299}}";
+			sepNavSelRange = "{105, 0}";
+			sepNavVisRange = "{136, 306}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* myBrowserViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1105}}";
+			sepNavSelRange = "{105, 0}";
+			sepNavVisRange = "{1855, 223}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23A0C30F10AF3B4400BF6241 /* myBrowser */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* myBrowser */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* myBrowser */,
+		);
+		codeSenseManager = 23A0C31C10AF3B5200BF6241 /* Code sense */;
+		executables = (
+			23A0C30F10AF3B4400BF6241 /* myBrowser */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					513,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 281313116;
+			PBXWorkspaceStateSaveDate = 281313116;
+		};
+		perUserProjectItems = {
+			2368B6A610C47FDB007E49E6 /* PBXTextBookmark */ = 2368B6A610C47FDB007E49E6 /* PBXTextBookmark */;
+			2368B6A710C47FDB007E49E6 /* PBXTextBookmark */ = 2368B6A710C47FDB007E49E6 /* PBXTextBookmark */;
+			2368B6A810C47FDB007E49E6 /* PBXTextBookmark */ = 2368B6A810C47FDB007E49E6 /* PBXTextBookmark */;
+			2368B6A910C47FDB007E49E6 /* PBXTextBookmark */ = 2368B6A910C47FDB007E49E6 /* PBXTextBookmark */;
+			2368B6AF10C48074007E49E6 /* PBXTextBookmark */ = 2368B6AF10C48074007E49E6 /* PBXTextBookmark */;
+			23A0C35A10AF45A200BF6241 /* PBXBookmark */ = 23A0C35A10AF45A200BF6241 /* PBXBookmark */;
+		};
+		sourceControlManager = 23A0C31B10AF3B5200BF6241 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
